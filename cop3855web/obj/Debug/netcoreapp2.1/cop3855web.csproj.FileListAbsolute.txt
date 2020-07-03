@@ -16,7 +16,6 @@ C:\Users\Joshu\source\repos\cop3855web\cop3855web\obj\Debug\netcoreapp2.1\cop385
 C:\Users\Joshu\source\repos\cop3855web\cop3855web\obj\Debug\netcoreapp2.1\cop3855web.TagHelpers.input.cache
 C:\Users\Joshu\source\repos\cop3855web\cop3855web\obj\Debug\netcoreapp2.1\cop3855web.TagHelpers.output.cache
 C:\Users\Joshu\source\repos\cop3855web\cop3855web\obj\Debug\netcoreapp2.1\cop3855web.RazorCoreGenerate.cache
-C:\Users\Joshu\source\repos\cop3855web\cop3855web\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
 C:\Users\Joshu\source\repos\cop3855web\cop3855web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Joshu\source\repos\cop3855web\cop3855web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\Joshu\source\repos\cop3855web\cop3855web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
@@ -36,3 +35,9 @@ C:\Users\Joshu\source\repos\cop3855web\cop3855web\obj\Debug\netcoreapp2.1\Razor\
 C:\Users\Joshu\source\repos\cop3855web\cop3855web\obj\Debug\netcoreapp2.1\cop3855web.csprojAssemblyReference.cache
 C:\Users\Joshu\source\repos\cop3855web\cop3855web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
 C:\Users\Joshu\source\repos\cop3855web\cop3855web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\Joshu\source\repos\cop3855web\cop3855web\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\Joshu\source\repos\cop3855web\cop3855web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\Joshu\source\repos\cop3855web\cop3855web\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\Joshu\source\repos\cop3855web\cop3855web\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\Joshu\source\repos\cop3855web\cop3855web\bin\Debug\netcoreapp2.1\package.json
+C:\Users\Joshu\source\repos\cop3855web\cop3855web\obj\Debug\netcoreapp2.1\Razor\Views\Order\Completed.cshtml.g.cs

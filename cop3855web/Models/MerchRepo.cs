@@ -35,10 +35,10 @@ namespace cop3855web.Models
                 Price = 35, 
                 Category = "Clothing", 
                 Description = "This high quality tshirt commemorates Bert Kreischer's Berty Boy World Tour and grants the wearer the ability to mispronounce almost every 3 syllable or greater word", 
-                ImageLink = "~/images/berty-boy-tour-tee-blue.png"},
+                ImageLink = "~/images/berty-boy-world-tour-tee-blue.png"},
             new Product 
             { 
-                Name = "Mystic Rick Tee Glasses Men's Black Tee", 
+                Name = "Mystic Rick Glasses Men's Black Tee", 
                 ProductID = 4, 
                 Price = 35, 
                 Category = "Clothing", 
@@ -79,7 +79,7 @@ namespace cop3855web.Models
                 Price = 33,
                 Category = "Clothing",
                 Description = "This tshirt is perfect for members of Thicc Boi Nation and has the sleeves already cut off since you were going to do that anyways, weren't you?",
-                ImageLink = "~/images/thicc-boi-nation-mens-sleeveless-charcoal-tee.png"
+                ImageLink = "~/images/thicc-boi-nation-mens-sleeveless-charcoal-tee.jpg"
             },
             new Product
             {
@@ -106,7 +106,7 @@ namespace cop3855web.Models
                 Price = 25,
                 Category = "Clothing",
                 Description = "This premium tshirt features the iconic quote from the uncensored episode of Scared Straight and lets your friends know that if they pass someone on a bike while driving with you, they should prepare to be deaf",
-                ImageLink = "~/images/bikes-2019.womens-tee.webp"
+                ImageLink = "~/images/bikes-2019-womens-tee.webp"
             },
             new Product
             {

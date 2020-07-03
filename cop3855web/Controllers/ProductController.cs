@@ -35,5 +35,6 @@ namespace cop3855web.Controllers
                 },
                 CurrentCategory = category
             });
+          
     }
 }

@@ -27,7 +27,11 @@ namespace cop3855web
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddTransient<IProductRepo, MerchRepo>();
+            services.AddScoped<Cart>(sp => SessionCart.GetCart(sp));
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddMemoryCache();
+            services.AddSession();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -35,6 +39,8 @@ namespace cop3855web
         {
             app.UseDeveloperExceptionPage();
             app.UseStaticFiles();
+            app.UseStatusCodePages();
+            app.UseSession();
             app.UseMvc(routes =>
             {
                 routes.MapRoute(

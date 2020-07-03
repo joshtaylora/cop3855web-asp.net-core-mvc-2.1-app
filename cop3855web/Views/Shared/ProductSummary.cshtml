@@ -1,19 +1,16 @@
 ﻿@model Product
-<div class="card m-3 rounded">
-    <div class="card-block m-2">
-        <div class="card-body">
+    <div class="merch-row" style="display:flex">
+        <div class="merch-col" style="flex:66.66%">
             <h3 class="card-title">
                 <strong>@Model.Name</strong>
             </h3>
-
-            <p class="card-text lead">
+            <p class="p-2">
                 @Model.Description
             </p>
-            
+
             <span class="float-left bg-success img-rounded m-2 p-1">
                 @Model.Price.ToString("c")
             </span>
-
             <form id="@Model.ProductID" asp-action="AddToCart"
                   asp-controller="Cart" method="post" class="float-right m-2 p-1">
                 <input type="hidden" asp-for="ProductID" />
@@ -24,5 +21,7 @@
                 </button>
             </form>
         </div>
+        <div class="merch-col" style="flex:33.33%">
+            <img class="" src="@Url.Content(Model.ImageLink)" alt="@Model.Name" style="width:200px" />
+        </div>
     </div>
-</div>

@@ -1,0 +1,42 @@
+﻿@model Order
+
+@{
+    Layout = null;
+}
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link href="~/lib/font-awesome/css/all.css" rel="stylesheet" />
+
+    <title>2 Bears 1 Cave Podcast</title>
+</head>
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="navbar-header">
+            <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">2 Bears 1 Cave</a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li><a asp-area="" asp-controller="Home" asp-action="Podcast">Podcast</a></li>
+                <li><span class="float-right">@await Component.InvokeAsync("CartSummary")</span></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="container">
+        <div class="row">
+            <div class="col col-md-3">
+                @await Component.InvokeAsync("NavigationMenu")
+            </div>
+            <div class="col col-md-9">
+                <h2>Thanks!</h2>
+                <p>Thank your for placing an order.</p>
+                <p>We will ship your purchases as soon as possible and will notify you of all shipping updates!</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+

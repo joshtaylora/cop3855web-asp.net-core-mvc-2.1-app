@@ -83,3 +83,58 @@ a img {
     color: #3c3836;
     font-size: 14px;
 }
+
+/*
+    ==========================================================
+                 Merch + Product Summary Page Layout 
+    ==========================================================
+*/
+
+div.merch-row {
+    display: flex;
+    padding: 10px;
+}
+
+div.merch-col {
+    flex: 50%;
+}
+
+div.merch-item {
+    margin-bottom: 5px;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+    background-color: #a89984;
+}
+
+.table-striped > tbody > tr:nth-of-type(even) {
+    background-color: #d5c4a1;
+}
+
+td {
+    color: #282828;
+}
+
+tfoot > tr > td {
+    color: #8ec07c;
+}
+
+/*
+    ======================================================
+                    Navbar styling
+    ======================================================
+*/
+
+.navbar {
+    flex: 1;
+}
+
+.shop-cart {
+    position: absolute;
+    top: 4px;
+}
+
+.cart-text {
+    position: relative;
+    left: 30px;
+}
