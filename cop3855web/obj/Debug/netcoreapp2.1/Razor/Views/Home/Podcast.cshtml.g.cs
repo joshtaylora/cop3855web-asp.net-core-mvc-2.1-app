@@ -62,7 +62,7 @@ using cop3855web.Infrastructure;
             WriteLiteral("<!DOCTYPE html>\r\n\r\n<html>\r\n");
             EndContext();
             BeginContext(157, 102, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "490b7f0325fc412eb3668485649de177", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d6b9fe57942f4546b50ef1863d919eb1", async() => {
                 BeginContext(163, 89, true);
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <title>Podcast</title>\r\n");
                 EndContext();
@@ -82,7 +82,7 @@ using cop3855web.Infrastructure;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(261, 1595, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "076ad02d864140829533fd615cde3219", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5b790a5959f54e1bb18b4d0a58cf0f88", async() => {
                 BeginContext(267, 1582, true);
                 WriteLiteral(@"
     <div class=""text-center"">

@@ -82,12 +82,12 @@ using cop3855web.Infrastructure;
             WriteLiteral("\r\n    <html>\r\n    ");
             EndContext();
             BeginContext(76, 342, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f7608ca816b64eafbf159de150f24425", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c0da04acdb2c4beca558cc25ba9a8691", async() => {
                 BeginContext(82, 73, true);
                 WriteLiteral("\r\n        <meta name=\"viewport\" content=\"width=device-width\" />\r\n        ");
                 EndContext();
                 BeginContext(155, 71, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "1f9660fb279d4beaa9b2ff7b83bd5d34", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "9579a84e33574a57aa77afce895a727f", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -106,7 +106,7 @@ using cop3855web.Infrastructure;
                 WriteLiteral("\r\n        ");
                 EndContext();
                 BeginContext(236, 47, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "618ba3d35d8c4f009dd00ecdd0896dcc", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "095e8c603d8040248298e87dab49467f", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -125,7 +125,7 @@ using cop3855web.Infrastructure;
                 WriteLiteral("\r\n        ");
                 EndContext();
                 BeginContext(293, 63, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "3622a6367f184feeb78286a8a9601812", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "cdbabc8ce9fd4abd818a8169bef444d2", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -159,12 +159,12 @@ using cop3855web.Infrastructure;
             WriteLiteral("\r\n    ");
             EndContext();
             BeginContext(424, 1638, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ee6014131450468182b3515a10514497", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e45d5db4d175480bbcd942db581025d2", async() => {
                 BeginContext(430, 121, true);
                 WriteLiteral("\r\n        <nav class=\"navbar navbar-inverse navbar-fixed-top\">\r\n            <div class=\"navbar-header\">\r\n                ");
                 EndContext();
                 BeginContext(551, 95, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "47dc6c939c15486d970eb978449fa2eb", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1ad2c8d7cb4c44e9b651dd918edad831", async() => {
                     BeginContext(628, 14, true);
                     WriteLiteral("2 Bears 1 Cave");
                     EndContext();
@@ -191,7 +191,7 @@ using cop3855web.Infrastructure;
                 WriteLiteral("\r\n            </div>\r\n            <div class=\"navbar-collapse collapse\">\r\n                <ul class=\"nav navbar-nav\">\r\n                    <li>");
                 EndContext();
                 BeginContext(789, 69, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9a3acfd488e14e1abe987f0ca53132ec", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "88dcc27c8b4a453fbf76371b64295639", async() => {
                     BeginContext(847, 7, true);
                     WriteLiteral("Podcast");
                     EndContext();
@@ -270,7 +270,7 @@ using cop3855web.Infrastructure;
                 WriteLiteral("\r\n                        ");
                 EndContext();
                 BeginContext(1631, 330, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("div", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4f1388edbf0f4140a26143fdce3e2b36", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("div", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "71a9591e0ad94e139411b22b4c7cc3a1", async() => {
                     BeginContext(1929, 26, true);
                     WriteLiteral("\r\n                        ");
                     EndContext();

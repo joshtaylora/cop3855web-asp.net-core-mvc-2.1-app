@@ -61,7 +61,7 @@ using cop3855web.Infrastructure;
             WriteLiteral("\r\n    <div class=\"\">\r\n        ");
             EndContext();
             BeginContext(43, 230, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "30b00da69a6240708c0af67945db4459", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dad6c1a9133148dc9a8ab4cd300f7e66", async() => {
                 BeginContext(210, 59, true);
                 WriteLiteral("\r\n            <i class=\"fa fa-shopping-cart\"></i>\r\n        ");
                 EndContext();

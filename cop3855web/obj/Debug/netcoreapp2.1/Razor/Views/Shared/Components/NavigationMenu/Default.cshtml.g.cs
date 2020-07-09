@@ -63,7 +63,7 @@ using cop3855web.Infrastructure;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(30, 143, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e31f0e32a4ca44cfa1892d560d5750ef", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c356cdcf91cc4f7cbe53a08af63f192b", async() => {
                 BeginContext(156, 13, true);
                 WriteLiteral("\r\n    Merch\r\n");
                 EndContext();
@@ -103,7 +103,7 @@ using cop3855web.Infrastructure;
             WriteLiteral("    ");
             EndContext();
             BeginContext(226, 260, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0b8ef894a966439a886f19326dc70c6b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3add59e8b09e4fe2b37a7ac48c877fbd", async() => {
                 BeginContext(457, 10, true);
                 WriteLiteral("\r\n        ");
                 EndContext();
